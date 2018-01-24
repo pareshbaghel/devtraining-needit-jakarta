@@ -5,13 +5,13 @@
             <element>short_description</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-22 10:06:47</sys_created_on>
-            <sys_id>737dd271dbb303000fa6de90cf961917</sys_id>
+            <sys_created_on>2018-01-24 09:09:50</sys_created_on>
+            <sys_id>8da32ca2dbb743000fa6de90cf961984</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing columns" display_value="Testing columns" name="x_58872_needit_needit" sys_domain="global" view="Default view">28b59e3ddb7303000fa6de90cf9619e1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-22 10:06:47</sys_updated_on>
+            <sys_updated_on>2018-01-24 09:09:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>description</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-22 10:06:47</sys_created_on>
-            <sys_id>f37dd271dbb303000fa6de90cf961917</sys_id>
+            <sys_created_on>2018-01-24 09:09:50</sys_created_on>
+            <sys_id>01a32ca2dbb743000fa6de90cf961985</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing columns" display_value="Testing columns" name="x_58872_needit_needit" sys_domain="global" view="Default view">28b59e3ddb7303000fa6de90cf9619e1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-22 10:06:47</sys_updated_on>
+            <sys_updated_on>2018-01-24 09:09:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>new_field_1</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-22 10:06:47</sys_created_on>
-            <sys_id>777dd271dbb303000fa6de90cf961917</sys_id>
+            <sys_created_on>2018-01-24 09:09:50</sys_created_on>
+            <sys_id>81a32ca2dbb743000fa6de90cf961985</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing columns" display_value="Testing columns" name="x_58872_needit_needit" sys_domain="global" view="Default view">28b59e3ddb7303000fa6de90cf9619e1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-22 10:06:47</sys_updated_on>
+            <sys_updated_on>2018-01-24 09:09:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>new_field_2</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-22 10:06:47</sys_created_on>
-            <sys_id>f77dd271dbb303000fa6de90cf961917</sys_id>
+            <sys_created_on>2018-01-24 09:09:50</sys_created_on>
+            <sys_id>05a32ca2dbb743000fa6de90cf961985</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing columns" display_value="Testing columns" name="x_58872_needit_needit" sys_domain="global" view="Default view">28b59e3ddb7303000fa6de90cf9619e1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-22 10:06:47</sys_updated_on>
+            <sys_updated_on>2018-01-24 09:09:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>u_choice_3</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-22 10:06:47</sys_created_on>
-            <sys_id>7b7dd271dbb303000fa6de90cf961917</sys_id>
+            <sys_created_on>2018-01-24 09:09:50</sys_created_on>
+            <sys_id>85a32ca2dbb743000fa6de90cf961985</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing columns" display_value="Testing columns" name="x_58872_needit_needit" sys_domain="global" view="Default view">28b59e3ddb7303000fa6de90cf9619e1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-22 10:06:47</sys_updated_on>
+            <sys_updated_on>2018-01-24 09:09:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -75,13 +75,41 @@
             <element>u_choice_4</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-22 10:06:47</sys_created_on>
-            <sys_id>fb7dd271dbb303000fa6de90cf961917</sys_id>
+            <sys_created_on>2018-01-24 09:09:50</sys_created_on>
+            <sys_id>09a32ca2dbb743000fa6de90cf961985</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Testing columns" display_value="Testing columns" name="x_58872_needit_needit" sys_domain="global" view="Default view">28b59e3ddb7303000fa6de90cf9619e1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-22 10:06:47</sys_updated_on>
+            <sys_updated_on>2018-01-24 09:09:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_other</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-24 09:09:50</sys_created_on>
+            <sys_id>89a32ca2dbb743000fa6de90cf961985</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Testing columns" display_value="Testing columns" name="x_58872_needit_needit" sys_domain="global" view="Default view">28b59e3ddb7303000fa6de90cf9619e1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-24 09:09:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_date_time_1</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-24 09:09:50</sys_created_on>
+            <sys_id>0da32ca2dbb743000fa6de90cf961985</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Testing columns" display_value="Testing columns" name="x_58872_needit_needit" sys_domain="global" view="Default view">28b59e3ddb7303000fa6de90cf9619e1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-24 09:09:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
